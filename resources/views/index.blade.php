@@ -361,14 +361,6 @@
     <!-- Appointment Section -->
     <section id="appointment" class="appointment section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Agenda una cita</h2>
-        <p>No esperes mas para volver a sentir tu vehiculo como NUEVO!</p>
-      </div><!-- End Section Title -->
-
-      
-
     </section><!-- /Appointment Section -->
 
     <!-- Departments Section -->
@@ -377,7 +369,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Sedes</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Descubre nuestras sedes y vive la experiencia Car Wash CarwasHappy</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -489,8 +481,8 @@
               <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Walter White</h4>
-                <span>Chief Medical Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <span>Lider de Servicios</span>
+                <p>Especializado en productos de primera calidad para excelentes resultados de alto brillo</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -506,8 +498,8 @@
               <div class="pic"><img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Sarah Jhonson</h4>
-                <span>Anesthesiologist</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <span>Especializada en Color</span>
+                <p>Enfoca sus destrezas en trabajos restaurativos de partes plasticas y colores</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -523,8 +515,8 @@
               <div class="pic"><img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>William Anderson</h4>
-                <span>Cardiology</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <span>Especialista de Operacion</span>
+                <p>Con la ayuda de nuestro especialista garantizamos un servicio puntual y rapido</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -540,8 +532,8 @@
               <div class="pic"><img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <span>Gerente Principal</span>
+                <p>Amanda nos guia para llevar dia a dia nuestra compania acorde a nuestra mision a un futuro mas brillante!</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -563,8 +555,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Frequently Asked Questions</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Preguntas Frecuentes</h2>
+        <p>Pregutnas realizadas frecuentemente por nuestros clientes. </p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -576,49 +568,74 @@
             <div class="faq-container">
 
               <div class="faq-item faq-active">
-                <h3>Non consectetur a erat nam at lectus urna duis?</h3>
+                <h3>Preguntas realizadas frecuentemente?</h3>
                 <div class="faq-content">
-                  <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
+                  <p>Cual es la duracion de un lavado deluxe?</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Feugiat scelerisque varius morbi enim nunc faucibus?</h3>
+                <h3>Cual es la disponibilidad de citas para Lavados regularmente?</h3>
                 <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                  <p>Se aconseja apartar citas con por lo menos 1 o 2 dias de anticipacion</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
+                <h3>¿Cómo puedo agendar una cita para lavar mi vehículo?</h3>
                 <div class="faq-content">
-                  <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
+                  <p>Agendar una cita es muy sencillo:
+
+                    Ingresa a la sección de "Agendamiento de Citas" desde la aplicación o el sitio web.
+                    Selecciona el tipo de servicio que necesitas (ejemplo: lavado básico, encerado, limpieza profunda).
+                    Escoge la fecha y hora que mejor te convenga, de acuerdo con la disponibilidad mostrada.
+                    Confirma tu cita ingresando la información del vehículo y cualquier comentario adicional que consideres importante.
+                    ¡Listo! Recibirás una confirmación por correo electrónico o mensaje, junto con un recordatorio antes de tu cita.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
+                <h3>¿Qué sucede si necesito cancelar o reprogramar mi cita?</h3>
                 <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                  <p>Entendemos que los planes pueden cambiar. Puedes cancelar o reprogramar tu cita de la siguiente manera:
+
+                    Ve a la sección "Mis Citas" dentro de la aplicación.
+                    Selecciona la cita que deseas modificar.
+                    Elige la opción "Cancelar" o "Reprogramar", dependiendo de tus necesidades.
+                    Si seleccionas "Reprogramar", escoge una nueva fecha y hora y confirma los cambios.
+                    Recibirás una notificación con la actualización de tu cita.
+                    Ten en cuenta que las cancelaciones deben realizarse con al menos 24 horas de anticipación para evitar cargos adicionales.
+                    .</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Tempus quam pellentesque nec nam aliquam sem et tortor?</h3>
+                <h3>¿Qué métodos de pago aceptan para los servicios de autolavado?</h3>
                 <div class="faq-content">
-                  <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
+                  <p>Aceptamos diversos métodos de pago para tu comodidad:
+
+                    Pagos en efectivo directamente en el establecimiento.
+                    Pagos con tarjeta de crédito o débito mediante la aplicación.
+                    Transferencias electrónicas desde plataformas bancarias compatibles.
+                    Opciones de pago digital como PayPal o billeteras electrónicas según disponibilidad en tu región.
+                    Al momento de confirmar tu cita, podrás seleccionar tu método de pago preferido.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
+                <h3>¿Qué pasa si llego tarde a mi cita?</h3>
                 <div class="faq-content">
-                  <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed in suscipit sequi. Distinctio ipsam dolore et.</p>
+                  <p>Si llegas tarde a tu cita:
+
+                    Se te dará un período de tolerancia de 15 minutos después de la hora programada.
+                    Si excedes este tiempo, tu cita podría ser cancelada automáticamente para dar espacio a otros clientes.
+                    Te recomendamos comunicarte con el establecimiento desde la opción "Contactar" en la aplicación para informar cualquier retraso y evitar inconvenientes.
+                    Siempre intentaremos adaptarnos a tu situación, pero agradecemos que llegues puntualmente para garantizar un servicio fluido.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
@@ -673,7 +690,7 @@
                       <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img flex-shrink-0" alt="">
                       <div>
                         <h3>Saul Goodman</h3>
-                        <h4>Ceo &amp; Founder</h4>
+                        <h4>Vecino Confiable &amp; Amigo</h4>
                         <div class="stars">
                           <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -693,7 +710,7 @@
                       <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img flex-shrink-0" alt="">
                       <div>
                         <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
+                        <h4>Taxista Experto</h4>
                         <div class="stars">
                           <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -713,7 +730,7 @@
                       <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img flex-shrink-0" alt="">
                       <div>
                         <h3>Jena Karlis</h3>
-                        <h4>Store Owner</h4>
+                        <h4>Dueno de linea de Autobuses</h4>
                         <div class="stars">
                           <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -733,7 +750,7 @@
                       <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img flex-shrink-0" alt="">
                       <div>
                         <h3>Matt Brandon</h3>
-                        <h4>Freelancer</h4>
+                        <h4>Vendedor de motos profesionales</h4>
                         <div class="stars">
                           <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -753,7 +770,7 @@
                       <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img flex-shrink-0" alt="">
                       <div>
                         <h3>John Larson</h3>
-                        <h4>Entrepreneur</h4>
+                        <h4>Cliente habitual</h4>
                         <div class="stars">
                           <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -784,8 +801,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Gallery</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Galeria de servicios</h2>
+        <p>Imagenes de algunos de nuestras intalaciones y procedimientos</p>
       </div><!-- End Section Title -->
 
       <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
@@ -867,8 +884,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Contacto</h2>
+        <p>Ponte en contacto con nosotros para apartar tu cita lo mas pronto posible!</p>
       </div><!-- End Section Title -->
 
       <div class="mb-5" data-aos="fade-up" data-aos-delay="200">
@@ -952,7 +969,7 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Medilab</span>
+            <span class="sitename">CarwasHappy</span>
           </a>
           <div class="footer-contact pt-3">
             <p>A108 Adam Street</p>
