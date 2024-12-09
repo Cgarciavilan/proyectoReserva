@@ -17,6 +17,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link rel="stylesheet" href="{{url('dist/css/adminlte.min.css')}}">
 {{-- iconos de bootstrap --}}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+<!--sweealert2-->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   <!-- jQuery -->
 <script src="{{url('plugins/jquery/jquery.min.js')}}"></script>
 {{-- Datables --}}
@@ -182,6 +184,18 @@ scratch. This page gets rid of all links and provides the needed markup only.
     </div>
     <!-- /.sidebar -->
   </aside>
+  @if ((($message = Session::get('mensaje')) && ($icono = Session::get('icono'))))
+      <script>
+        Swal.fire({
+        position: "top-end",
+        icon: "{{$icono}}",
+        title: "{{$message}}",
+        showConfirmButton: false,
+        timer: 3500
+    });
+      </script>
+          
+      @endif
 <div class="content-wrapper">
     <br>
     <div class="container">

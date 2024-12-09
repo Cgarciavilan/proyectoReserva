@@ -20,12 +20,7 @@
     </div>
     <!-- /.card-header -->
     <div class="card-body">
-      @if ($message = Session::get('mensaje'))
-      <script>
-        alert('{{$message}}');
-      </script>
-          
-      @endif
+      
       <table id="example1" class="table table-striped table-bordered table-hover table-sm">
         <thead class="table-dark">
           <tr>

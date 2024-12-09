@@ -52,7 +52,8 @@ class ServicioController extends Controller
        
 
        return redirect()->route('admin.servicios.index')
-       ->with('mensaje', 'se registro servicio de la  manera correcta');
+       ->with('mensaje', 'se registro servicio de la  manera correcta')
+       ->with('icono','success');
     }
 
     /**
@@ -90,8 +91,8 @@ class ServicioController extends Controller
        $servicio->save();
 
        return redirect()->route('admin.servicios.index')
-       ->with('mensaje', 'se actualizo servicio de la  manera correcta');
-
+       ->with('mensaje', 'se actualizo servicio de la  manera correcta')
+       ->with('icono','success');
         
     }
 
@@ -111,6 +112,7 @@ class ServicioController extends Controller
     
 
         return redirect()->route('admin.servicios.index')
-       ->with('mensaje', 'se elimino registro de servicio de la  manera correcta');
+       ->with('mensaje', 'se elimino registro de servicio de la  manera correcta')
+       ->with('icono','success');
     }
 }

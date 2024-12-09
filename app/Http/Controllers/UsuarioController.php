@@ -31,7 +31,8 @@ class UsuarioController extends Controller
        $usuario->save();
 
        return redirect()->route(route:'admin.usuarios.index')
-       ->with('mensaje', 'se registro usuario de la  manera correcta');
+       ->with('mensaje', 'se registro usuario de la  manera correcta')
+       ->with('icono','success');
 }
 public function show($id){
     $usuario = User:: findOrFail($id);
@@ -60,7 +61,8 @@ public function update(Request $request, $id){
 
     $usuario->save();
     return redirect()->route(route:'admin.usuarios.index')
-       ->with('mensaje', 'se actualizo usuario de la  manera correcta');
+       ->with('mensaje', 'se actualizo usuario de la  manera correcta')
+       ->with('icono','success');
 
     
 }
@@ -73,7 +75,8 @@ public function confirmDelete($id){
 public function DESTROY($id){
     User:: destroy($id);
     return redirect()->route(route:'admin.usuarios.index')
-       ->with('mensaje', 'se elimino usuario de la  manera correcta');
+       ->with('mensaje', 'se elimino usuario de la  manera correcta')
+       ->with('icono','success');
 }
     
 

@@ -12,7 +12,7 @@
 
       <div class="card-tools">
         <a href="{{url('admin/citas/create')}}" class="btn btn-primary">
-          Crear Usuario
+          Crear Cita
         </a>
       </div>
 

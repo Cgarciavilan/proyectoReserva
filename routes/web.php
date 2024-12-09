@@ -11,7 +11,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-//rutas para el asmin
+//rutas para el admin
 Route::get('/admin', [App\Http\Controllers\AdminController::class, 'index'])->name('admin.index')->middleware('auth');
 //rutas para el admin-usuario
 Route::get('/admin/usuarios', [App\Http\Controllers\UsuarioController::class, 'index'])->name('admin.usuarios.index')->middleware('auth');
@@ -54,3 +54,13 @@ Route::get('/admin/citas', [App\Http\Controllers\CitaController::class, 'index']
 Route::get('/admin/citas/create', [App\Http\Controllers\CitaController::class, 'create'])->name('admin.citas.create')->middleware('auth');
 //Ruta envio formulario
 Route::post('/admin/citas/create', [App\Http\Controllers\CitaController::class, 'store'])->name('admin.citas.store')->middleware('auth');
+//Ruta show o ver cita
+Route::get('/admin/citas/{id}', [App\Http\Controllers\CitaController::class, 'show'])->name('admin.citas.show')->middleware('auth');
+//Ruta Editar Cita
+Route::get('/admin/citas/{id}/edit', [App\Http\Controllers\CitaController::class, 'edit'])->name('admin.citas.edit')->middleware('auth');
+//Ruta Actualizar Cita
+Route::put('/admin/citas/{id}', [App\Http\Controllers\CitaController::class, 'update'])->name('admin.citas.update')->middleware('auth');
+//Ruta Eliminar
+Route::get('/admin/citas/{id}/confirm-delete', [App\Http\Controllers\CitaController::class, 'confirmDelete'])->name('admin.citas.confirmDelete')->middleware('auth');
+//Ruta Destroy-Cita
+Route::delete('/admin/citas/{id}', [App\Http\Controllers\CitaController::class, 'destroy'])->name('admin.citas.destroy')->middleware('auth');
