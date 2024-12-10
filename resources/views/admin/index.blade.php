@@ -18,22 +18,22 @@
       <div class="carousel-item active">
         <img class="d-block w-100" src="{{ asset('assets/img/hero-bg.jpg') }}" alt="Primera imagen">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Primera Imagen</h5>
-          <p>Descripción de la primera imagen.</p>
+          <h5>Autos como nuevos!</h5>
+          <p>Tu auto quedata como nuevo</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="{{ asset('assets/img/about.jpg') }}" alt="Segunda imagen">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Segunda Imagen</h5>
-          <p>Descripción de la segunda imagen.</p>
+          <h5>Productos de primera calidad</h5>
+          <p>Productos de Alta calidad y excelentes resultados</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="{{ asset('assets/img/moto1.jpg') }}" alt="Tercera imagen">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Tercera Imagen</h5>
-          <p>Descripción de la tercera imagen.</p>
+          <h5>Tu Moto como nunca antes!</h5>
+          <p>Despierta la envidia de todos con el autentico brillo que solo CarwasHappy puede darte</p>
         </div>
       </div>
     </div>
